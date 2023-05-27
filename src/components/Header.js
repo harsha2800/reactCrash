@@ -14,7 +14,7 @@ const Header = ({ title, onAdd, showAdd }) => {
           text={showAdd ? 'Close' : 'Add'}
           onClick={onAdd}
         /> // new test 2 commit 2 
-      )}
+      )}   // cheching commit testcase1
     </header>
   )
 }
