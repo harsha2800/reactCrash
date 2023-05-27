@@ -13,7 +13,7 @@ const Header = ({ title, onAdd, showAdd }) => {
           color={showAdd ? 'red' : 'green'}
           text={showAdd ? 'Close' : 'Add'}
           onClick={onAdd}
-        />
+        /> // new test 2 commit 2 
       )}
     </header>
   )
